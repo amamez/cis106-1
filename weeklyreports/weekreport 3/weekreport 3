@@ -38,7 +38,7 @@ c. Command for removing software
 d. Command for searching for software
     apt search "      "
 
-e. Definition of the following terms:
+e. Definition of the following terms
 
   # Package
     This is a box that in it contains library, dependency and repository. This is a box containing all the necessary tools to install the program that the user need. An example of package will be Microsoft Office. 

@@ -51,5 +51,5 @@ One of the advantages of open source is user friendly, security, support and tes
 ## The Free software movement
 Brian Fox the creator of Bash. Bash is a Unix shell and a command language interpreter,for the GNU operating system. Fox worked on this project for nine months: eight months to work on it and he deleted the project and put it back together in one month. Bash runs on nearly every version of Unix and other operating systems. Bash has become by far the most popular shell among users of Linux. For me the most fascinating aspect was that prior to this project, he worked in many other projects before working on Bash shell and successfully after nine months, he was ble to have this project done. From my coding experience form working on python, I had the code written but had an extra space. I could only run the code after deleting the space. In the same way, Brian Fox learned as she worked on this project and enhanced this code by learning what to do and what not to do. 
 
-## Sources 
+
 

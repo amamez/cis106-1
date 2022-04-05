@@ -66,15 +66,28 @@
   * To create a hard link: ln file ~/Downloads/fileHL
   * To create a symbolic link: ln -s file fileSL
   
-
 ### Man: 
 * Definition: Man is command used to look for quick references.   
+  * Usage: man + command 
+  * Example: man ls 
+* Open the man page of the passwd command 
+  * man passed 
+* Open a specific man page for the passwd command 
+  * man 5 passwd
+* Show all the available pages of a command
+  * man -a passwd 
 
 Brace expansion and how to use it: 
+* Definition: Brace expansion {} is not a wildcard but another feature of bash that allows you to generate arbitrary strings to use with commands.  
+* Examples: 
+  * to match all files that have a vowel after letter f: 
+    * ls f[aeiou]*
+  * to match all files that have a range of letter after f: 
+    * ld f[a-z]*
 
-Brace expansion {} is not a wildcard but another feature of bash that allows you to generate arbitrary strings to use with commands.  
-   
 ![Week Report 5](pic1.png)!
+
+![Week Report 5](pic2.png)!
   
 
 

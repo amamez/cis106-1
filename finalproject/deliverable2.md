@@ -17,7 +17,9 @@ Definition: Virtualbox is a virtualization software. It is a powerful type 2 vir
 The virtual box is divided in sections, such as: Name and operating system, Memory size, Hard disk, Hard disk file type, Storage on physicial hard disk, File location and size. 
 1. The user must name its virtual machine. Main folder indicated where the virtual machine is located.  
 2. Memory size: Ubuntu requires at least 2GB of Ram. 
-3. Hard disk: 
+3. Hard disk: This option allows the user to creater a virtual haed disk with any sized that the user will specify 
+4. Hard disk file type: VDI(VirtualBox Disk Image)
+5. 
 
 ### Types of virtualization 
 Replication of hardware to stimulate a virtual machine inside a physical machine. Two general types of virtualization. 

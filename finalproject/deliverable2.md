@@ -19,7 +19,6 @@ The virtual box is divided in sections, such as: Name and operating system, Memo
 2. Memory size: Ubuntu requires at least 2GB of Ram. 
 3. Hard disk: This option allows the user to creater a virtual haed disk with any sized that the user will specify 
 4. Hard disk file type: VDI(VirtualBox Disk Image)
-5. 
 
 ### Types of virtualization 
 Replication of hardware to stimulate a virtual machine inside a physical machine. Two general types of virtualization. 
@@ -31,22 +30,16 @@ Replication of hardware to stimulate a virtual machine inside a physical machine
 
 ![Computer Requirements](pic1.png)
 
-Hypervisor 
+Hypervisor: Hypervisor is software that creates and manages virtual machines(Vms). The hypervisor allows the computer to run multiple virtual computers using the same sources as the host computer. ATM machines uses hypervisors. 
 
-Types of Hypervisors 
+## Types of Hypervisors 
+1. Type 1: Type 1 are commonly called Bare metal or native if anything runs natively in your computer. 
 
+2. Type 2: Type 2 are the one that we know as regular virtual machines 
 
-## Updating Ubuntu 
-![Computer Requirements](pic1.png)
+### Virtual Manager 
+Virtual manager support different types of virtualization such as Qemu, Zen and Xen used in Linux and windows. 
 
-## Installing Software in Ubuntu 
-![Computer Requirements](pic1.png)
-
-## Basic Linux Commands 
-![Computer Requirements](pic1.png)
-
-## Navigating the filesystem 
-![Computer Requirements](pic1.png)
-
-### Managing files and directories 
-![Computer Requirements](pic1.png)
+### Installing Endeavour OS in Virtual Manager 
+The first step to install Endeavour, installing all packages to run virtual-manger. Second, it is important to enable livirtd service, Third, check for the status to see if it downloading properly. 
+Fourth, it is important to re-star the computer. Fifth, after Download has been completed, star the installation as regularly you do in a virtual machine. 
